@@ -1,0 +1,11 @@
+body .jumbotron {
+  text-align: center;
+  margin: 50px 150px;
+}
+img {
+  height: 350px;
+  padding-top: 30px;
+}
+h1, h3, h4 {
+    padding: 20px;
+}
